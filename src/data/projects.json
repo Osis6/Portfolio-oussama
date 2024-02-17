@@ -1,0 +1,26 @@
+[
+  {
+    "title": "KASA",
+    "imageSrc": "projects/Kasa.png",
+    "description": "an innovative apartment rental website between individuals, benefiting from smooth navigation and a responsive layout for an optimal experience on all devices.",
+    "skills": ["React", "Node", "Sass"],
+    "demo": "https://osis6.github.io/kasa/",
+    "source": "https://github.com/Osis6/kasa.git"
+  },
+  {
+    "title": "Sophie Bluel",
+    "imageSrc": "projects/sophie-bluel.png",
+    "description": "The portfolio site of interior designer Sophie Bluel offers a captivating immersion in her creative and refined universe. Through an elegant and intuitive interface",
+    "skills": ["JavaScript", "Express", "Node"],
+    "demo": "#",
+    "source": "https://github.com/Osis6/Portfolio-architecte-sophie-bluel-OB-P03.git"
+  },
+  {
+    "title": "Mon Vieux Grimoire",
+    "imageSrc": "projects/Grimoire.png",
+    "description": "A book referencing and rating platform, This platform will allow literature enthusiasts to discover, evaluate and share their opinions on a wide range of books.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "#",
+    "source": "https://github.com/Osis6/mon-vieux-grimoire.git"
+  }
+]
