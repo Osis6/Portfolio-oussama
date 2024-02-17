@@ -54,7 +54,7 @@
 }
 
 .skill p {
-  font-size: 25px;
+  font-size: 20px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
@@ -86,21 +86,23 @@
 }
 
 .historyItemDetails h3 {
-  font-size: 30px;
-  font-weight: 500;
+  font-size: 32px;
+  font-weight: 700;
 }
 
 .historyItemDetails p {
-  font-size: 20px;
-  font-weight: 300;
+  font-size: 17px;
 }
 
 .historyItemDetails ul {
-  margin-top: 6px;
-  list-style-position: inside;
-  font-size: 25px;
+  margin-top: 25px;
+  list-style-position: outside;
+  font-size: 22px;
   list-style-type: disc;
-  margin-left: 17px;
+  margin-left: 18px;
+}
+.historyItemDetails li {
+  margin: 20px;
 }
 
 @media screen and (max-width: 830px) {

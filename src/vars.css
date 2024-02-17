@@ -1,3 +1,5 @@
+/** @format */
+
 :root {
   /* Colours */
   --color-text: #fff;
@@ -7,5 +9,5 @@
   --color-bg: #04152d;
 
   /* Fonts */
-  --font-roboto: "Roboto";
+  --font-roboto: 'Roboto';
 }
