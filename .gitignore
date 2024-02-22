@@ -4,3 +4,9 @@
 /node_modules
 
 /vite.config.js
+
+# folders
+/dist
+
+# other
+/build

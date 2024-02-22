@@ -1,4 +1,6 @@
-@import "../../vars.css";
+/** @format */
+
+@import '../../vars.css';
 
 .container {
   margin-top: 76px;

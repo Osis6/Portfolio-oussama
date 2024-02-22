@@ -97,8 +97,8 @@
 .historyItemDetails ul {
   margin-top: 25px;
   list-style-position: outside;
-  font-size: 22px;
-  list-style-type: disc;
+  font-size: 21px;
+  list-style-type: square;
   margin-left: 18px;
 }
 .historyItemDetails li {
@@ -113,7 +113,7 @@
   }
 
   .skills {
-    width: 100%;
+    width: 120%;
     flex-direction: row;
     justify-content: center;
   }
@@ -121,5 +121,6 @@
   .history {
     width: 100%;
     gap: 9px;
+    margin-right: 50px;
   }
 }

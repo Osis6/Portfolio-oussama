@@ -8,18 +8,18 @@
     "source": "https://github.com/Osis6/kasa.git"
   },
   {
-    "title": "Sophie Bluel",
-    "imageSrc": "projects/sophie-bluel.png",
-    "description": "The portfolio site of interior designer Sophie Bluel offers a captivating immersion in her creative and refined universe. Through an elegant and intuitive interface",
-    "skills": ["JavaScript", "Express", "Node"],
-    "demo": "#",
-    "source": "https://github.com/Osis6/Portfolio-architecte-sophie-bluel-OB-P03.git"
+    "title": "OB movie",
+    "imageSrc": "projects/OB-movies.png",
+    "description": "OB-movie is a website dedicated to the world of cinema. This platform offers a curated selection of content, popular films, and exciting upcoming releases.",
+    "skills": ["React", "Express", "JavaScript"],
+    "demo": "https://ob-movie.netlify.app/",
+    "source": "https://github.com/Osis6/OB-movie"
   },
   {
     "title": "Mon Vieux Grimoire",
     "imageSrc": "projects/Grimoire.png",
-    "description": "A book referencing and rating platform, This platform will allow literature enthusiasts to discover, evaluate and share their opinions on a wide range of books.",
-    "skills": ["React", "Express", "Node"],
+    "description": "innovative space designed for literature enthusiasts, providing them with a unique opportunity to explore, evaluate, and share their opinions on an extensive array of books.",
+    "skills": ["JavaScript", "node", "Express"],
     "demo": "#",
     "source": "https://github.com/Osis6/mon-vieux-grimoire.git"
   }
