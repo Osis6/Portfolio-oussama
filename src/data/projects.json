@@ -16,11 +16,11 @@
     "source": "https://github.com/Osis6/OB-movie"
   },
   {
-    "title": "Mon Vieux Grimoire",
-    "imageSrc": "projects/Grimoire.png",
-    "description": "innovative space designed for literature enthusiasts, providing them with a unique opportunity to explore, evaluate, and share their opinions on an extensive array of books.",
-    "skills": ["JavaScript", "node", "Express"],
-    "demo": "#",
-    "source": "https://github.com/Osis6/mon-vieux-grimoire.git"
+    "title": "SEO Project",
+    "imageSrc": "projects/ninacar.png",
+    "description": "Debugging and optimizing the Nina Carducci Site involves thorough Performance improvements include image compression and file minification.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://ob-nina-carducci.netlify.app/",
+    "source": "https://github.com/Osis6/Nina-Carducci"
   }
 ]
