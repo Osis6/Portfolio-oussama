@@ -11,13 +11,11 @@ export const Projects = () => {
   const [projectsData, setProjectsData] = useState([]);
 
   useEffect(() => {
-    // Dynamically import projects data based on the current language
     import(`../../data/projects.${language}.json`)
       .then((module) => {
         setProjectsData(module.default.projects || []);
       })
       .catch((error) => {
-        // Handle error if the file doesn't exist for the selected language
         console.error(
           `Failed to load projects for language ${language}`,
           error
@@ -27,7 +25,7 @@ export const Projects = () => {
 
   return (
     <section className={styles.container} id='projects'>
-      <h2 className={styles.title}>{t('projects.title')}</h2>
+      <h2 className={styles.title}>projects</h2>
       <div className={styles.projects}>
         {projectsData.map((project, id) => (
           <ProjectCard key={id} project={project} />
