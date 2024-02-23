@@ -11,8 +11,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Oussama BOUNOU</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          A seasoned full-stack developer with a passion for crafting dynamic
+          and scalable web applications. With a solid foundation built over two
+          years of hands-on experience, I specialize in leveraging the power of
+          React and NodeJS to bring innovative ideas to life. Reach out if you'd
+          like to learn more!
         </p>
         <a href='mailto:myemail@email.com' className={styles.contactBtn}>
           Contact Me
