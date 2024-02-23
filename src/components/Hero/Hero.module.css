@@ -24,6 +24,7 @@
 .title {
   font-size: 72px;
   font-weight: 900;
+  padding-top: 100px;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
   background: linear-gradient(
@@ -31,8 +32,9 @@
     rgba(255, 255, 255, 1) 70%,
     rgba(255, 255, 255, 0) 120%
   );
-  -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  background-clip: text; /* Standard property */
+  -webkit-text-fill-color: transparent;
 }
 
 .description {
@@ -40,7 +42,7 @@
   font-family: var(--font-roboto);
   margin-bottom: 52px;
   letter-spacing: 1.7px;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .contactBtn {
