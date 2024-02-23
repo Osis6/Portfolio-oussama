@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Salut, je suis Oussama BOUNOU",
+    "description": "Développeur full-stack chevronné avec une passion pour la création d'applications web dynamiques et évolutives. Fort d'une expérience pratique de plus de deux ans, je me spécialise dans l'utilisation de React et NodeJS pour donner vie à des idées innovantes. Contactez-moi si vous souhaitez en savoir plus !",
+    "contactBtn": "Me Contacter",
+    "imageAlt": "Image de moi en tant que héros"
+  },
+  "navbar": {
+    "about": "À propos",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "À propos",
+    "altText": "Moi pointant vers les utilisateurs",
+    "cursorAltText": "Icône de curseur",
+    "frontendTitle": "Développeur Frontend",
+    "frontendDescription": "Je suis un développeur frontend avec de l'expérience dans la construction de sites réactifs et optimisés",
+    "serverAltText": "Icône du serveur",
+    "backendTitle": "Développeur Backend",
+    "backendDescription": "J'ai de l'expérience dans le développement de systèmes backend rapides et optimisés ainsi que des APIs",
+    "uiAltText": "Icône de l'interface utilisateur",
+    "uiTitle": "Designer UI",
+    "uiDescription": "J'ai conçu plusieurs pages de destination et créé des systèmes de conception"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "N'hésitez pas à me contacter !",
+    "emailIconAlt": "Icône d'email",
+    "emailLink": "bounou.oussama@gmail.com",
+    "linkedinIconAlt": "Icône LinkedIn",
+    "linkedinLink": "https://www.linkedin.com/in/oussamabounou/",
+    "githubIconAlt": "Icône GitHub",
+    "githubLink": "https://www.github.com/Osis6"
+  }
+}

@@ -1,11 +1,12 @@
 /** @format */
 
 import React, { useState } from 'react';
-
+import { useTranslation } from 'react-i18next';
 import styles from './Navbar.module.css';
 import { getImageUrl } from '../../utils';
 
-export const Navbar = () => {
+const Navbar = () => {
+  const { t } = useTranslation();
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -29,19 +30,21 @@ export const Navbar = () => {
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href='#about'>About</a>
+            <a href='#about'>{t('navbar.about')}</a>
           </li>
           <li>
-            <a href='#experience'>Experience</a>
+            <a href='#experience'>{t('navbar.experience')}</a>
           </li>
           <li>
-            <a href='#projects'>Projects</a>
+            <a href='#projects'>{t('navbar.projects')}</a>
           </li>
           <li>
-            <a href='#contact'>Contact</a>
+            <a href='#contact'>{t('navbar.contact')}</a>
           </li>
         </ul>
       </div>
     </nav>
   );
 };
+
+export default Navbar;

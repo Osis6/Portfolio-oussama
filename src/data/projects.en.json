@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "KASA",
+      "imageSrc": "projects/Kasa.png",
+      "description": "An innovative apartment rental website between individuals, benefiting from smooth navigation and a responsive layout for an optimal experience on all devices.",
+      "skills": ["React", "Node", "Sass"],
+      "demo": "https://osis6.github.io/kasa/",
+      "source": "https://github.com/Osis6/kasa.git"
+    },
+    {
+      "title": "OB MOVIE",
+      "imageSrc": "projects/OB-movies.png",
+      "description": "OB-movie is a website dedicated to the world of cinema. This platform offers a curated selection of content, popular films, and exciting upcoming releases.",
+      "skills": ["React", "Express", "JavaScript"],
+      "demo": "https://ob-movie.netlify.app/",
+      "source": "https://github.com/Osis6/OB-movie"
+    },
+    {
+      "title": "SEO PROJECT",
+      "imageSrc": "projects/ninacar.png",
+      "description": "Debugging and optimizing the Nina Carducci Site involves thorough Performance improvements include image compression and file minification.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://ob-nina-carducci.netlify.app/",
+      "source": "https://github.com/Osis6/Nina-Carducci"
+    }
+  ]
+}

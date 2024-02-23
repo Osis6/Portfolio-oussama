@@ -1,0 +1,24 @@
+/** @format */
+
+.language-switcher {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: var(--color-bg);
+  padding: 5px;
+}
+
+.language-btn {
+  cursor: pointer;
+  color: var(--color-text);
+  background-color: var(--color-secondary);
+  border: navy;
+  padding: 1px 10px;
+  border-radius: 3px;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.language-btn:hover {
+  background-color: var(--color-primary);
+}

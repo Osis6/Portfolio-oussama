@@ -1,0 +1,29 @@
+{
+  "history": [
+    {
+      "role": "Formation et Éducation",
+      "organisation": "OC",
+      "startDate": "Août, 2023",
+      "endDate": "Avr, 2024",
+      "experiences": [
+        "Cours approfondis en développement front-end et back-end",
+        "Maîtrise des technologies telles que HTML, CSS, React, Node.js, MongoDB et Figma",
+        "Contrôle de version avec Git et familiarité avec les outils de gestion de projet"
+      ],
+      "imageSrc": "history/OpenClassrooms.png"
+    },
+    {
+      "role": "Compétences Techniques",
+      "organisation": "",
+      "startDate": "Fév, 2020",
+      "endDate": "Présent",
+      "experiences": [
+        "Maîtrise des technologies front-end : HTML, CSS, React",
+        "Compétences en développement full-stack avec Node.js et MongoDB",
+        "Compréhension et mise en œuvre de GraphQL",
+        "Conception UI/UX avec Figma"
+      ],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]
+}

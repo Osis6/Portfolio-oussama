@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Hi, I'm Oussama BOUNOU",
+    "description": "A seasoned full-stack developer with a passion for crafting dynamic and scalable web applications. With a solid foundation built over two years of hands-on experience, I specialize in leveraging the power of React and NodeJS to bring innovative ideas to life. Reach out if you'd like to learn more!",
+    "contactBtn": "Contact Me",
+    "imageAlt": "Hero image of me"
+  },
+  "navbar": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About",
+    "altText": "Me pointing to users",
+    "cursorAltText": "Cursor icon",
+    "frontendTitle": "Frontend Developer",
+    "frontendDescription": "I'm a frontend developer with experience in building responsive and optimized sites",
+    "serverAltText": "Server icon",
+    "backendTitle": "Backend Developer",
+    "backendDescription": "I have experience developing fast and optimized back-end systems and APIs",
+    "uiAltText": "UI icon",
+    "uiTitle": "UI Designer",
+    "uiDescription": "I have designed multiple landing pages and have created design systems as well"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to reach out!",
+    "emailIconAlt": "Email icon",
+    "emailLink": "bounou.oussama@gmail.com",
+    "linkedinIconAlt": "LinkedIn icon",
+    "linkedinLink": "https://www.linkedin.com/in/oussamabounou/",
+    "githubIconAlt": "GitHub icon",
+    "githubLink": "https://www.github.com/Osis6"
+  }
+}
