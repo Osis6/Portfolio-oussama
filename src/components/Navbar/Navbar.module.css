@@ -33,6 +33,10 @@
   list-style: none;
 }
 
+.menuItems a:hover {
+  color: var(--color-primary);
+}
+
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);

@@ -38,6 +38,9 @@
   align-items: center;
   gap: 20px;
 }
+.link a:hover {
+  color: var(--color-primary);
+}
 
 .link a {
   color: var(--color-text);

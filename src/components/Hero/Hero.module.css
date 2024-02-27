@@ -25,13 +25,8 @@
   font-size: 72px;
   font-weight: 900;
   padding-top: 100px;
-  margin-bottom: 33px;
-  font-family: var(--font-roboto);
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 70%,
-    rgba(255, 255, 255, 0) 120%
-  );
+  font-family: var(--font-family);
+  background: var(--color-gradient);
   -webkit-background-clip: text;
   background-clip: text; /* Standard property */
   -webkit-text-fill-color: transparent;
@@ -39,7 +34,7 @@
 
 .description {
   font-size: 30px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-family);
   margin-bottom: 52px;
   letter-spacing: 1.7px;
   padding-top: 20px;
@@ -54,6 +49,11 @@
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+.contactBtn:hover {
+  background: var(--color-gradient);
+  transform: scale(1.1);
+  transition: transform 0.4s ease;
 }
 
 .heroImg {

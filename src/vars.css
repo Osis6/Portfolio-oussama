@@ -1,13 +1,14 @@
 /** @format */
-
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 :root {
   /* Colours */
   --color-text: lightgray;
-  --color-primary: #042b29;
+  --color-primary: #ff4820;
   --color-secondary: #19376d;
   --color-dark: #0b2447;
   --color-bg: #04152d;
+  --color-gradient: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
 
   /* Fonts */
-  --font-roboto: 'Roboto';
+  --font-family: 'Manrope', sans-serif;
 }
