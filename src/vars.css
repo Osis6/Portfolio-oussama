@@ -8,6 +8,7 @@
   --color-dark: #0b2447;
   --color-bg: #04152d;
   --color-gradient: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+  --btn-gradient: linear-gradient(to right, #ffb000, #ff9100, #ffeb3b);
 
   /* Fonts */
   --font-family: 'Manrope', sans-serif;

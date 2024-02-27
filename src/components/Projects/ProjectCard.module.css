@@ -63,8 +63,8 @@
   padding: 1px 22px;
 }
 .link:hover {
-  color: var(--color-primary);
-  background: var(--color-text);
+  color: var(--color-bg);
+  background: var(--btn-gradient);
   transform: scale(1.2);
   transition: transform 0.4s ease;
   border-radius: 50px;
