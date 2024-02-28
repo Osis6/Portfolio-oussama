@@ -12,7 +12,7 @@
       "title": "CARHUB",
       "imageSrc": "projects/carhub.png",
       "description": "A revolutionary car rental application, redefines the rental landscape with its intuitive platform. Designed for smooth navigation across all devices.",
-      "skills": ["NextJs", "Vercel", "TypeScript"],
+      "skills": ["Next.js", "React", "TypeScript"],
       "demo": "https://ob-carhub.vercel.app/",
       "source": "https://github.com/Osis6/car-hub"
     },
