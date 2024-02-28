@@ -21,7 +21,7 @@
       "imageSrc": "projects/ninacar.png",
       "description": "Debugging and optimizing the Nina Carducci Site involves thorough Performance improvements include image compression and file minification.",
       "skills": ["JavaScript", "HTML", "CSS"],
-      "demo": "https://ob-nina-carducci.vercel.app/",
+      "demo": "https://ob-carducci.vercel.app/",
       "source": "https://github.com/Osis6/Nina-Carducci"
     }
   ]

@@ -21,7 +21,7 @@
       "imageSrc": "projects/ninacar.png",
       "description": "Le débogage et l'optimisation du site Nina Carducci impliquent des améliorations approfondies des performances, notamment la compression d'images et la minification de fichiers.",
       "skills": ["JavaScript", "HTML", "CSS"],
-      "demo": "https://ob-nina-carducci.vercel.app/",
+      "demo": "https://ob-carducci.vercel.app/",
       "source": "https://github.com/Osis6/Nina-Carducci"
     }
   ]
