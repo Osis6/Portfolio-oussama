@@ -5,7 +5,7 @@
       "imageSrc": "projects/Kasa.png",
       "description": "An innovative apartment rental website between individuals, benefiting from smooth navigation and a responsive layout for an optimal experience on all devices.",
       "skills": ["React", "Node", "Sass"],
-      "demo": "https://osis6.github.io/kasa/",
+      "demo": "https://ob-kasa.vercel.app/",
       "source": "https://github.com/Osis6/kasa.git"
     },
     {
