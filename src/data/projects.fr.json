@@ -9,19 +9,19 @@
       "source": "https://github.com/Osis6/kasa.git"
     },
     {
-      "title": "OB MOVIE",
-      "imageSrc": "projects/OB-movies.png",
-      "description": "OB-movie est un site Web dédié au monde du cinéma. Cette plateforme propose une sélection de contenu, des films populaires, des sorties passionnantes à venir, ainsi que des analyses approfondies.",
-      "skills": ["React", "Express", "JavaScript"],
-      "demo": "https://ob-movie.netlify.app/",
-      "source": "https://github.com/Osis6/OB-movie"
+      "title": "CARHUB",
+      "imageSrc": "projects/carhub.png",
+      "description": "Une application révolutionnaire de location de voitures redéfinit le paysage de la location avec sa plateforme intuitive. Conçue pour une navigation fluide et une réactivité sur tous les appareils.",
+      "skills": ["NextJs", "Vercel", "TypeScript"],
+      "demo": "https://ob-carhub.vercel.app/",
+      "source": "https://github.com/Osis6/car-hub"
     },
     {
       "title": "PROJET SEO",
       "imageSrc": "projects/ninacar.png",
       "description": "Le débogage et l'optimisation du site Nina Carducci impliquent des améliorations approfondies des performances, notamment la compression d'images et la minification de fichiers.",
       "skills": ["JavaScript", "HTML", "CSS"],
-      "demo": "https://ob-nina-carducci.netlify.app/",
+      "demo": "https://ob-nina-carducci.vercel.app/",
       "source": "https://github.com/Osis6/Nina-Carducci"
     }
   ]
