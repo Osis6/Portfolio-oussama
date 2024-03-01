@@ -18,6 +18,9 @@
   text-decoration: none;
   color: var(--color-text);
 }
+.logo img {
+  border-radius: 25px;
+}
 
 .menuBtn {
   display: none;

@@ -11,8 +11,8 @@ const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href='/'>
-        OB
+      <a className={styles.logo} href='/'>
+        <img src={getImageUrl('nav/ob-logo.png')} alt='logo' />
       </a>
       <div className={styles.menu}>
         <img
