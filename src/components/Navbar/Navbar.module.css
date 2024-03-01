@@ -51,11 +51,14 @@
     flex-direction: column;
     align-items: flex-start;
   }
+  .logo {
+    margin-left: 5%;
+  }
 
   .menu {
     position: absolute;
     right: 0;
-    margin-right: 10%;
+    margin-right: 5%;
     flex-direction: column;
     align-items: flex-end;
     gap: 11px;

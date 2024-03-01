@@ -22,3 +22,9 @@
 .language-btn:hover {
   background-color: var(--color-primary);
 }
+
+@media screen and (max-width: 830px) {
+  .language-switcher {
+    display: none;
+  }
+}
