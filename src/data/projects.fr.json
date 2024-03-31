@@ -9,12 +9,12 @@
       "source": "https://github.com/Osis6/kasa.git"
     },
     {
-      "title": "CARHUB",
-      "imageSrc": "projects/carhub.png",
-      "description": "Une application révolutionnaire de location de voitures redéfinit le paysage de la location avec sa plateforme intuitive. Conçue pour une navigation fluide et une réactivité sur tous les appareils.",
-      "skills": ["Next.js", "React", "TypeScript"],
-      "demo": "https://ob-carhub.vercel.app/",
-      "source": "https://github.com/Osis6/car-hub"
+      "title": "OB MOVIE",
+      "imageSrc": "projects/OB-movie.png",
+      "description": "OB-movie est un site Web dédié au monde du cinéma. Cette plateforme propose une sélection de contenu, des films populaires, des sorties passionnantes à venir, ainsi que des analyses approfondies.",
+      "skills": ["React", "Express", "TypeScript"],
+      "demo": "https://ob-movie.vercel.app/",
+      "source": "https://github.com/Osis6/OB-movie"
     },
     {
       "title": "PROJET SEO",
